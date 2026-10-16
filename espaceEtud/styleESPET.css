@@ -29,3 +29,42 @@ font-family: arial, sans-serif;
     justify-content: center;
 }
 
+.p2 {
+    flex: 1;
+    background-color: #dbeafe;
+    text-align: center;
+    padding: 30px;
+    color: #1e3a8a;
+}
+header{
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    background-color: #164e63;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    display: block;
+}
+
+
+.menu a:hover {
+    background-color: #0891b2;
+}
+
+
+.menu a:focus {
+    border: 1px solid yellow;
+}
+
+    
+
