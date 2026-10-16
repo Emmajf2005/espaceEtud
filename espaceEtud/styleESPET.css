@@ -134,6 +134,44 @@ footer {
     font-size: 0.875rem;
     margin-top: 1.25rem;
 }
+@media (max-width: 30rem){
+
+    footer {
+        padding: 0.75rem 0.5rem;
+    }
+    body{
+        background-color: #e0f2fe;
+    }
+    .menu ul {
+        flex-direction:column;
+    }
+    header, .banniere{
+        display: none;
+    }
+}
+@media (max-width: 48rem){
+    h3 {
+        font-size: 1.2rem;
+    }
+
+}
+.contenu-principal{
+    gap: 0.5em;
+    flex-direction: column;
+}
+.section-gauche, .actualites{
+    border-color: #2653eb;
+}
+
+@media (max-width: 64rem){
+    .section-gauche, .actualites{
+        border-radius: 0.5rem;
+    }
+    .contenu-principal{
+        display: flex;
+        flex-direction: row;
+    }
+     }
 
     
 
