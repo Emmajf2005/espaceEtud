@@ -65,6 +65,48 @@ header{
 .menu a:focus {
     border: 1px solid yellow;
 }
+.contenu-principal {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+
+.section-gauche {
+    width: 66.6667%;
+    background-color: #d1fae5;
+    padding: 20px;
+    border: 1px solid #059669;
+}
+
+
+.actualites {
+    width: 33.3333%;
+    background-color: #fef3c7;
+    padding: 20px;
+    border: 1px solid #d97706;
+}
+.contenu-principal {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+
+.section-gauche {
+    width: 66.6667%;
+    background-color: #d1fae5;
+    padding: 20px;
+    border: 1px solid #059669;
+}
+
+
+.actualites {
+    width: 33.3333%;
+    background-color: #fef3c7;
+    padding: 20px;
+    border: 1px solid #d97706;
+}
 
     
 
