@@ -17,3 +17,15 @@ font-family: arial, sans-serif;
     background-color: white;
 }
 
+.logo {
+    width: 180px;
+    background-color: #164e63;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
