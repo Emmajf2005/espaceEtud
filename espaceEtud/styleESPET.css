@@ -172,6 +172,13 @@ footer {
         flex-direction: row;
     }
      }
+     .logo-img{
+        width: 11.25rem;
+        object-fit: contain;
+     }
+     .p2 {
+        background: linear-gradient(to right, #fef3c7, #f59e0b);
+     }
 
     
 
