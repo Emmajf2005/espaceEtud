@@ -126,6 +126,14 @@ li {
 p {
     line-height: 1.6;
 }
+footer {
+    background-color: #164e63;
+    color: white;
+    text-align: center;
+    padding: 1.25rem 1rem;
+    font-size: 0.875rem;
+    margin-top: 1.25rem;
+}
 
     
 
